@@ -13,6 +13,7 @@
 ## Description
 
 ***Brief métier donné durant la formation concepteur développeur d'application.***
+
 Ce brief suivait différents objectifs :
 
 ➔ Définir un projet professionnel clair et précis à court, moyen et long terme.
@@ -23,9 +24,9 @@ Ce brief suivait différents objectifs :
 
 ➔ Définir les contours du métier choisi
 
-Pour ce faire nous nous sommes concentré sur deux métiers (DevOps et Back-End) et deux types d'entreprises(ESN et Grandes Entreprises).
-Pour ce faire nous avons fait un notion afin de prendre des notes etnous les transmettres entre nous et un canva pour la présentation.
-De plus nous avons effectué 2 interviews de professionnels afin d'avoir un point de vue internes de ces deux métiers. Pour finir, nous avons chacun exprimé notre projet professionnels sur le court, moyen et long terme.
+Pour ce faire nous nous sommes concentré sur deux métiers (DevOps et Back-End) et deux types d'entreprises (ESN et Grandes Entreprises).
+Nous avons fait un notion afin de prendre des notes et nous les transmettres entre nous et un canva pour la présentation.
+De plus nous avons effectué 2 interviews de professionnels afin d'avoir un point de vue interne de ces deux métiers. Pour finir, nous avons chacun exprimé notre projet professionnels sur le court, moyen et long terme.
 
 
 
